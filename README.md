@@ -39,7 +39,7 @@ Algunos comandos curso de linea de comandos de platzi
 
 -------
 
-#WildCards:
+#WildCards: Busca y filtra en el sistema
 
 - ls *.txt : Muestra todos los archivos que termines en la extencion que especifiquemos.
 - ls nombre* : Muestra todos los archivos que empiezen por ese nombre
